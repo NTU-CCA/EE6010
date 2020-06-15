@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/EE6010/blob/master/logo.png)|
 |---|
-# EE6010 - Project Management and Technopreneurship
+# EE6010 - Project Management & Technopreneurship
 
 ### Learning Objective:
 
